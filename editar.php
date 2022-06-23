@@ -313,7 +313,7 @@
 
 
 
-                <form method="POST" action="registrar.php">
+                <form method="POST" action="update.php">
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">ID</label>
     <input type="text" class="form-control" name="id" value="<?php echo $idR; ?>"   aria-describedby="emailHelp">
